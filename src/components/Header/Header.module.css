@@ -1,0 +1,20 @@
+.wrapp {
+  display: flex;
+  background-color: rgb(7, 29, 61);
+  min-height: 80px;
+  color: white;
+  font-size: 32px;
+  font-family: sans-serif;
+}
+.content {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+.content a {
+  text-decoration: none;
+  color: white;
+}
